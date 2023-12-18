@@ -2,3 +2,15 @@
 #steuerung{background-color: orange;}
 #inhalt{background-color: yellowgreen;}
 #fuss{background-color: deepskyblue;}
+header{
+    background-color: bisque;
+}
+nav {
+    background-attachment: orange;
+}
+section{
+    background-attachment: yellowgreen;
+}
+footer{
+    background-attachment: deepskyblue;
+}
