@@ -1,16 +1,18 @@
-#kopf {background-color: yellow;}
-#steuerung{background-color: orange;}
-#inhalt{background-color: yellowgreen;}
-#fuss{background-color: deepskyblue;}
-header{
-    background-color: bisque;
+header, nav, section, footer {
+    display: block;
 }
+header {
+    background-color: yellow;
+}
+
 nav {
-    background-attachment: orange;
+    background-color: orange;
 }
-section{
-    background-attachment: yellowgreen;
+
+section {
+    background-color:  yellowgreen;
 }
-footer{
-    background-attachment: deepskyblue;
+
+footer {
+    background-color:  deepskyblue;
 }
