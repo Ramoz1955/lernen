@@ -1,6 +1,7 @@
 header, nav, section, footer {
     display: block;
 }
+
 header {
     background-color: yellow;
 }
@@ -15,4 +16,8 @@ section {
 
 footer {
     background-color:  deepskyblue;
+}
+p{
+    style : "color:crimson"
+
 }
